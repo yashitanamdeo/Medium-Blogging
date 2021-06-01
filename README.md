@@ -1,8 +1,8 @@
 # Medium-Blogging
 
-###Project 2 under Suven Coding Internship
+### Project 2 under Suven Coding Internship
 
-You can view the live preview <a href="">Here</a>
+You can view the live preview <a href="https://yashitanamdeo.github.io/Medium-Blogging/">Here</a>
 
 <ul>
 <li>Designed a frontend template similar to any blogging or online publishing platform like Medium.</li>
